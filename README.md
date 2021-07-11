@@ -15,5 +15,9 @@ step3.after loading the image,click on predict button then it will predict that 
 This website is deployed in Heroku you can access it [here](https://facemask-prediction-1.herokuapp.com/)   
 # Usage  
 **You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.**
+# Screenshots  
+![Screenshot (210)](https://user-images.githubusercontent.com/71584572/125192006-16609480-e263-11eb-8b17-34165c68d7cd.png)    
+
+
 
 # PLEASE WEAR A PROTECTIVE MASK TO PROTECT YOURSELF AND OTHERS
