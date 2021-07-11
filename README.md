@@ -1,5 +1,5 @@
 # FaceMaskDetection
-
+**A simple machine learning based website which preidicts the facemask is weared or not**
 
 # About Me 
 Greetings Everyone,  
