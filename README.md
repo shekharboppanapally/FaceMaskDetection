@@ -14,4 +14,4 @@ step3.after loading the image,click on predict button then it will predict that 
 # Deployment 
 This website is deployed in Heroku you can access it [here](https://facemask-prediction-1.herokuapp.com/)   
 # Usage  
-**You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.   
+**You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report. **  
