@@ -17,7 +17,13 @@ This website is deployed in Heroku you can access it [here](https://facemask-pre
 **You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.**
 # Screenshots  
 ![Screenshot (210)](https://user-images.githubusercontent.com/71584572/125192006-16609480-e263-11eb-8b17-34165c68d7cd.png)   
-![Screenshot (211)](https://user-images.githubusercontent.com/71584572/125192057-63446b00-e263-11eb-99de-307bc393fd2d.png)
+![Screenshot (211)](https://user-images.githubusercontent.com/71584572/125192057-63446b00-e263-11eb-99de-307bc393fd2d.png)  
+# Demo  
+
+
+https://user-images.githubusercontent.com/71584572/125287502-9c034380-e33a-11eb-9da0-05e9d3f771a1.mp4
+
+
 
 
 
